@@ -1,6 +1,6 @@
-class CurrentUserController < ApplicationController
-  before_action :authenticate_user!
-  def index
-    render json: UserSerialzier.new(current_user).serializeable_hash[:data][:attributes], status: :ok
+  class CurrentUserController < ApplicationController
+    before_action :authenticate_user!
+    def index
+      render json: current_user, status: :ok
+    end
   end
-end
