@@ -11,7 +11,7 @@ AllCops:
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 120
+  Max: 125
 Metrics/MethodLength:
   Include:
     - "app/controllers/*"
@@ -57,4 +57,6 @@ Style/HashEachMethods:
 Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
+  Enabled: false
+Layout/EndOfLine:
   Enabled: false
