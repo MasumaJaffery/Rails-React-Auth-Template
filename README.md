@@ -136,7 +136,7 @@ RoR -> [http://localhost:4000](http://localhost:4000) to view it in your browser
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Syeda Masuma Fatima** Student-A
+👤 **Syeda Masuma Fatima** 
 
 - GitHub: [@MasumaJaffery](https://github.com/MasumaJaffery)
 - Twitter: [@MasumaJaffery](https://twitter.com/MasumaJaffery)
