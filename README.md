@@ -11,7 +11,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [ ♦ Kanban Board](#kanban-board)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -119,7 +118,10 @@ Install this project with:
 
 ### Usage
 ```
+ For frontend only:
+ cd frontend-react-app
  npm start  // git bash terminal
+ For backend only:
  rails s    // wsl terminal
  ```
 
