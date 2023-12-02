@@ -11,7 +11,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [ ♦ Kanban Board](#kanban-board)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -119,7 +118,10 @@ Install this project with:
 
 ### Usage
 ```
+ For frontend only:
+ cd frontend-react-app
  npm start  // git bash terminal
+ For backend only:
  rails s    // wsl terminal
  ```
 
@@ -142,11 +144,6 @@ RoR -> [http://localhost:4000](http://localhost:4000) to view it in your browser
 - Twitter: [@MasumaJaffery](https://twitter.com/MasumaJaffery)
 - LinkedIn: [Masuma Jaffery](https://www.linkedin.com/in/masuma-jaffery-797a29256/)
 
-👤 **Ruth Abreu**
-
-- GitHub: [@Ruthmy](https://github.com/Ruthmy)
-- Twitter: [@rury_exe](https://twitter.com/rury_exe)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ruth-abreu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
