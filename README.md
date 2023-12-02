@@ -188,6 +188,8 @@ Or give it a **star** ⭐️
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I thank Microverse for this fantastic opportunity, and the code reviewers for their advice and time.
+Special Thanks to https://dakotaleemartinez.com/tutorials/devise-jwt-api-only-mode-for-authentication/ and [@Ruthmy](https://github.com/Ruthmy) , [@CaptainBawa](https://github.com/CaptainBawa) , [@MasumaJaffery](https://github.com/MasumaJaffery)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
