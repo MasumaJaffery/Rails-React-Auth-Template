@@ -47,7 +47,7 @@ const SignIn = () => {
 
   return (
     <div
-      className="bg-gray-100 min-h-screen flexxx items-center justify-center"
+      className="bg-gray-100 min-h-screen flex items-center justify-center"
     >
       <div className="bg-white p-6 rounded-lg shadow-lg max-w-md w-full bg-opacity-90">
         <form className="space-y-4" onSubmit={handleLogin}>
@@ -89,7 +89,7 @@ const SignIn = () => {
           <div className="mt-6">
             <button
               type="submit"
-              className="w-full p-2 text-center text-white rounded-md bg-lime-400"
+              className="w-full p-2 text-center text-white rounded-md bg-blue-600"
             >
               Sign In
             </button>

@@ -142,7 +142,7 @@ const SignUpForm = () => {
           <div className="mt-6">
             <button
               type="submit"
-              className="w-full p-2 text-center text-white rounded-md bg-lime-400"
+              className="w-full p-2 text-center text-white rounded-md bg-blue-600"
             >
               Sign up
             </button>
